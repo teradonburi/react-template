@@ -1,0 +1,6 @@
+**/node_modules
+**/dist
+*.build.js
+**/db.json
+*.map
+**/yarn-error.log
