@@ -5902,6 +5902,12 @@ rc@^1.1.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
+react-amphtml@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/react-amphtml/-/react-amphtml-3.0.1.tgz#4d3878b5ad5defbb640c74fb76cbb1efbcbb38ff"
+  dependencies:
+    prop-types "^15.6.1"
+
 react-dom@^16.3.1:
   version "16.4.0"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.4.0.tgz#099f067dd5827ce36a29eaf9a6cdc7cbf6216b1e"
