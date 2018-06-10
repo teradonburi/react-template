@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "NODE_ENV=dev node-dev --inspect=127.0.0.1:9229 grpc_server.js",
+    "dev": "NODE_ENV=dev node-dev --inspect=127.0.0.1:9230 grpc_server.js",
     "prod": "NODE_ENV=production node grpc_server.js"
   },
   "dependencies": {
